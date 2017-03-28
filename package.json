@@ -1,6 +1,6 @@
 {
   "name": "dredd-extended",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.0",
   "description": "HTTP API Testing Framework",
   "main": "lib/dredd.js",
   "bin": {
