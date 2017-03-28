@@ -9,7 +9,7 @@ options = require './options'
 Runner = require './transaction-runner'
 {applyConfiguration} = require './configuration'
 handleRuntimeProblems = require './handle-runtime-problems'
-dreddTransactions = require 'dredd-transactions'
+dreddTransactions = require 'dredd-transactions-extended'
 configureReporters = require './configure-reporters'
 
 CONNECTION_ERRORS = ['ECONNRESET', 'ENOTFOUND', 'ESOCKETTIMEDOUT', 'ETIMEDOUT', 'ECONNREFUSED', 'EHOSTUNREACH', 'EPIPE']

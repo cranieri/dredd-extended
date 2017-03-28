@@ -2,7 +2,7 @@
 {assert} = require('chai')
 sinon = require('sinon')
 proxyquire = require('proxyquire')
-dreddTransactions = require('dredd-transactions')
+dreddTransactions = require('dredd-transactions-extended')
 
 logger = require('../../src/logger')
 handleRuntimeProblems = proxyquire('../../src/handle-runtime-problems',
