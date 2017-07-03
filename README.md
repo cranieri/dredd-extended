@@ -50,7 +50,7 @@ Dredd supports writing [hooks](https://dredd.readthedocs.io/en/latest/hooks/)
 ## Installation
 
 ```
-$ npm install -g dredd
+$ npm install -g dredd-extended
 ```
 
 ## Quick Start
